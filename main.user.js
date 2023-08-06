@@ -5,7 +5,6 @@
 // @description  将 GitHub 的 issue 列表页面转换为一个悬浮在网页左侧，点击标题后在右侧打开具体页面，并为左侧列表中的每一项添加编号并高亮显示
 // @match        https://github.com/*/issues*
 // @grant        GM_addStyle
-// @license MIT
 // ==/UserScript==
 
 (function() {
